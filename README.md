@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/5jyq8xnf07l00oa0?svg=true)](https://ci.appveyor.com/project/Marusya-Belova/pageobjects)
+[![Build status](https://ci.appveyor.com/api/projects/status/3p302wu2mie1qgog?svg=true)](https://ci.appveyor.com/project/Marusya-Belova/pageobjects-uetk7)
